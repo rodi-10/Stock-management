@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352232374366-gptd659t5jvvtu77mni3kgrtrrosqcj5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352232374366-gptd659t5jvvtu77mni3kgrtrrosqcj5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>352232374366-2paobtmvj36c1rtgal46og534ioms08t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_1AI9KxpTMjrUYF-lSuWd6RURk7KOpKw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352232374366</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>teamicodev.yourvone</string>
+	<key>PROJECT_ID</key>
+	<string>traderdraft-22440</string>
+	<key>STORAGE_BUCKET</key>
+	<string>traderdraft-22440.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352232374366:ios:2c76ee302a33ce2f2b34cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://traderdraft-22440.firebaseio.com</string>
+	<key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+        	<key>CFBundleTypeRole</key>
+        	<string>Editor</string>
+        	<key>CFBundleURLSchemes</key>
+        	<array>
+        	    <string>com.googleusercontent.apps.352232374366-gptd659t5jvvtu77mni3kgrtrrosqcj5</string>
+            </array>
+        </dict>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>fb2537579543139551</string>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>

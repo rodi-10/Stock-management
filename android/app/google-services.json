@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "352232374366",
+    "firebase_url": "https://traderdraft-22440.firebaseio.com",
+    "project_id": "traderdraft-22440",
+    "storage_bucket": "traderdraft-22440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352232374366:android:263827583e8bb06e2b34cf",
+        "android_client_info": {
+          "package_name": "teamicodev.yourvone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352232374366-sk3iosjffddqfvgq58ms51q9las3aasa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teamicodev.yourvone",
+            "certificate_hash": "f024b1bc64d35d766a77d6fe1386e3abef392853"
+          }
+        },
+        {
+          "client_id": "352232374366-2paobtmvj36c1rtgal46og534ioms08t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teamicodev.yourvone",
+            "certificate_hash": "ee82cc378067d7f8214e09c2bf88098ae4837432"
+          }
+        },
+        {
+          "client_id": "352232374366-ts3jekj9ap9bqlp5pdistb515968uvrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj02IoHSx8s_dPQI6J1Ug8VNTYZFSY1ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352232374366-ts3jekj9ap9bqlp5pdistb515968uvrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352232374366-gptd659t5jvvtu77mni3kgrtrrosqcj5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "teamicodev.yourvone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
